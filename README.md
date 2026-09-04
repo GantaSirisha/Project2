@@ -1,2 +1,3 @@
 # Project2
-2nd day of practcing github 
+2nd day of practicing github 
+This time practicing for hand on
